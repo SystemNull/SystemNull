@@ -1,4 +1,4 @@
-Hi, I'm SystemNull,
+Hi, I'm SystemNull.
 I'm a game developer in the unity game engine and I also experiment with different tools and programming languages.
 I play games like: GeometryDash, Subnautica, and Trackmania(2020).
 
