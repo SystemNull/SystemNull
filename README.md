@@ -1,6 +1,5 @@
 Hi, I'm SystemNull.
-I'm a game developer in the unity game engine and I also experiment with different tools and programming languages.
-I play games like: GeometryDash, Subnautica, Risk of Rain 2, and Trackmania(2020).
+I'm a Swift app developer in Queensland, Australia. I've entered the Swift Student Challenge twice (2023, 2024), and play around with different tools and languages to. No apps on the app store (yet!)
 
 <!---
 SystemNull/SystemNull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
