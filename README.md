@@ -1,6 +1,6 @@
 Hi, I'm Oscar!
 
-I'm a high school student in Australia. I've entered the Swift Student Challenge three times now (2023, 2024, 2025), and my latest entry won!. I also play around with other languages and tools like C#. No apps on the app store (yet!)
+I'm a high school student in Australia. I've entered the Swift Student Challenge three times now (2023, 2024, 2025), with my most recent entry winning! I also play around with other languages and tools like C#. No apps on the app store (yet!)
 
 Student challenge submissions available on inquiry.
 <!---
